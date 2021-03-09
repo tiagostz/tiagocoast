@@ -36,7 +36,7 @@
 
 ## ✅ Entre em contato! ✉️
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunoluiss)](https://https://www.linkedin.com/in/tiagosantos-/)
- [![Gmail Badge](https://img.shields.io/badge/-thiagosantos0016@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmeazevedo@gmail.com)](mailto:thiagosantos0016@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/tiagosantos-)](https://https://www.linkedin.com/in/tiagosantos-/)
+ [![Gmail Badge](https://img.shields.io/badge/-thiagosantos0016@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagosantos0016@gmail.com)](mailto:thiagosantos0016@gmail.com)
 
 
