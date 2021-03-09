@@ -9,7 +9,7 @@
 - 🎓 Sou formando em técnico e desenvolvimento de sistemas através do SENAI.
 - 🔧 Estou estudando no momento Database para aperfeiçoar melhor na ferramenta.
 - 🛠️ Ferramentas de uso no trabalho: SQL Server, PostgreSQL.
-- 💻 Futuramente quero me aperfeiçoar mais na área de front-end, apesar de ja ter um conhecimento basico.
+- 💻 Futuramente quero me aperfeiçoar na área de front-end, apesar de ja ter um conhecimento basico.
 
 <hr>
 
