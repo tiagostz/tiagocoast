@@ -5,11 +5,11 @@
 ### 👦Sobre mim :seedling: : 
 - 👋 Me chamo **Tiago Santos**, tenho 24 anos.
 - 📌  De Valinhos, São Paulo, Brasil.
-- 💼 Atualmente sou Analista de Sistemas Jr no setor de Infraestrutura e Redes..
+- 💼 Atualmente sou Analista de Sistemas Jr no setor de Tecnologia da informação..
 - 🎓 Sou formando em técnico e desenvolvimento de sistemas através do SENAI.
-- 🔧 Estou estudando no momento Database para aperfeiçoar melhor na ferramenta.
+- 🔧 Estou estudando no momento Banco de dados e C# para aperfeiçoar melhor na ferramenta.
 - 🛠️ Ferramentas de uso no trabalho: SQL Server, PostgreSQL.
-- 💻 Futuramente quero me aperfeiçoar na área de front-end, apesar de ja ter um conhecimento basico.
+- 💻 Futuramente quero me aperfeiçoar na área de front-end, database ou back-end, apesar de ja ter um conhecimento basico.
 
 <hr>
 
