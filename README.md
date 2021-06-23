@@ -7,7 +7,6 @@
 - 📌  De Valinhos, São Paulo, Brasil;
 - 💼 Atualmente sou Analista de Sistemas Jr no setor de Tecnologia da informação;
 - 🎓 Sou formando em técnico e desenvolvimento de sistemas através do SENAI;
-- 🔧 Estou estudando no momento Banco de dados e C# para aperfeiçoar melhor na ferramenta;
 - 🛠️ Ferramentas de uso no trabalho: SQL Server, PostgreSQL;
 - 💻 No momento estou estudando C# e possuo um conhecimento intermediário/avançado em Banco de dados;
 
