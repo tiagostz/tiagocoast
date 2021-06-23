@@ -3,36 +3,36 @@
 </h1>
 
 ### 👦Sobre mim :seedling: : 
-- 👋 Me chamo **Tiago Santos**, tenho 24 anos.
-- 📌  De Valinhos, São Paulo, Brasil.
-- 💼 Atualmente sou Analista de Sistemas Jr no setor de Tecnologia da informação..
-- 🎓 Sou formando em técnico e desenvolvimento de sistemas através do SENAI.
-- 🔧 Estou estudando no momento Banco de dados e C# para aperfeiçoar melhor na ferramenta.
-- 🛠️ Ferramentas de uso no trabalho: SQL Server, PostgreSQL.
-- 💻 Estou me aperfeiçoando em 3 áreas atualmente:(front-end, database e back-end) front e back possuo um conhecimento basico, Database estou no nivel intermediario/avançado.
+- 👋 Me chamo **Tiago Santos**, tenho 24 anos;
+- 📌  De Valinhos, São Paulo, Brasil;
+- 💼 Atualmente sou Analista de Sistemas Jr no setor de Tecnologia da informação;
+- 🎓 Sou formando em técnico e desenvolvimento de sistemas através do SENAI;
+- 🔧 Estou estudando no momento Banco de dados e C# para aperfeiçoar melhor na ferramenta;
+- 🛠️ Ferramentas de uso no trabalho: SQL Server, PostgreSQL;
+- 💻 No momento estou estudando C# e possuo um conhecimento intermediário/avançado em Banco de dados;
 
 <hr>
 
 
 ### 📦 Databases:
-- MySQL
-- PostgreSQL
-- SQL Server
+- MySQL;
+- PostgreSQL;
+- SQL Server;
 
 
 ### 🧰 Ferramentas utilizadas no trabalho:
-- PostgreSQL
-- SQL Server
+- PostgreSQL;
+- SQL Server;
 
 
 ### ⚡ Conhecimentos basicos:
-- C++
-- Java
-- C#
-- ANDROID
-- HTML5
-- CSS3
-- JavaScript
+- C++;
+- Java;
+- C#;
+- ANDROID;
+- HTML5;
+- CSS3;
+- JavaScript;
 
 ## ✅ Entre em contato! ✉️
 
