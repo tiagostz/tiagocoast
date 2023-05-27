@@ -5,7 +5,7 @@
 ### 👦Sobre mim :seedling: : 
 - 👋 Me chamo **Tiago Santos** tenho 26 anos;
 - 📌 De Valinhos, São Paulo, Brasil;
-- 🎓 Tenho formação técnica em Desenvolvimento de Sistemas pelo do SENAI;
+- 🎓 Tenho formação técnica em Desenvolvimento de Sistemas pelo SENAI;
 - 💻 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Descomplica;
 - 📈 Tenho conhecimento intermediário/avançado em Banco de dados;
 - 💼 Atualmente, trabalho como Analista de Sistemas Jr;
